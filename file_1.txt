@@ -2,3 +2,6 @@ Learning activity
 This is a training lab
 Git Gihub
 Learning
+This is your buddy Meredith
+I am add 3 lines of text
+I hope this works!
